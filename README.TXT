@@ -9,9 +9,9 @@ e-mail : antoni.burguera@uib.es
 
 If you use this software, please cite the following paper:
 
-Antoni Burguera.
+Antoni Burguera
 Inter-Beat Interval Estimation from Extremely Noisy Single Lead Electrocardiograms
-In Proceedings of the IFAC World Congress, Berlin - Virtual, 2020.
+In Proceedings of the IFAC World Congress, Berlin - Virtual, 2020
 
 =========================
 === BUILD THE PACKAGE ===
