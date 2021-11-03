@@ -7,9 +7,11 @@ RRI correction in scenarios with intervals of extreme noise.
 Author : Antoni Burguera
 e-mail : antoni.burguera@uib.es
 
-A paper describing the theory behind this software has been submitted to a peer-reviewer journal. The proper reference will be added to this file after acceptance.
+If you use this software, please cite the following paper:
 
-If you use this software, please cite that reference. If the reference is not available in this README, please contact us.
+Antoni Burguera.
+Inter-Beat Interval Estimation from Extremely Noisy Single Lead Electrocardiograms
+In Proceedings of the IFAC World Congress, Berlin - Virtual, 2020.
 
 =========================
 === BUILD THE PACKAGE ===
